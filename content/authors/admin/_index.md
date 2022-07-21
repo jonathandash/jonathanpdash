@@ -1,7 +1,7 @@
 ---
 title: Dr Jonathan Dash, PhD
 role: Forestry and Remote Sensing Consultant
-avatar_filename: 2k2a6954-b-w.jpg
+avatar_filename: avatar.jpg
 bio: My expertise includes statistical modelling, forestry, and remote sensing.
 interests:
   - Artificial Intelligence
