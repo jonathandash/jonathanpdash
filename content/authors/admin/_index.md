@@ -1,8 +1,8 @@
 ---
-title: Jonathan Dash
+title: Dr Jonathan Dash, PhD
 role: Forestry and Remote Sensing Consultant
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: 2k2a6954-b-w.jpg
+bio: My expertise includes statistical modelling, forestry, and remote sensing.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -41,8 +41,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jonathan Dash is a consultant with expertise in forest management and remote sensing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
