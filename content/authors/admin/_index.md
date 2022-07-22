@@ -5,6 +5,7 @@ avatar_filename: avatar.jpg
 bio: My expertise includes statistical modelling, forestry, and remote sensing.
 interests:
   - Forest Modelling
+  - Biometrics
   - Remote Sensing
   - Forest Measurement
   - Statistics
