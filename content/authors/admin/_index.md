@@ -51,7 +51,7 @@ Since 2018 I have returned to Europe where I offer consulting services on all as
 
 I have expertise in forest management, remote sensing, and statistics. I have substantial experience of working in both academic research and commercial forestry where I turn my analytical skills to solving real world problems for a wide range of clients. I am an expert in sampling design and statistical modelling for forestry and have developed a wide range of forest growth and yield simulators for my client. I also have the technical skills to handle all aspects of remote sensing and have delivered many successful projects including lidar-based forest inventories, satellite monitoring of forest condition and land cover, and mapping of forest risks such as wildfire and forest pathogens.
 
-Take a look at my Projects tab and download my CV for more detail.
+Take a look at Projects tab and download my CV for more detail.
 
 If you need help on technical aspects of any projects please contact me. 
 
