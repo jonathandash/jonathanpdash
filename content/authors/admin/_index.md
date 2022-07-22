@@ -39,8 +39,14 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Jonathan Dash is a consultant with expertise in forest management and remote sensing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi, I'm Jonathan! 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I've always loved forests, technology, and computers and I've spent a large part of my career following these passions. I am originally from Wales and following a degree in Biology and a Masters degree in forest growth and yield modelling in the UK I moved to New Zealand in 2007. In NZ I spent the next decade working in the vibrant forest sector and as a forestry scientist. I worked at an innovative consulting and forest measurement company where I was exposed to all aspects of forest measurement and modelling, sampling design, forest measurement, and gained a lot of experience using SQL for database management. I also worked on various research projects including remote sensing and harvesting research. I also contributed to the development of New Zealand's national forest carbon inventory.
+
+Subsequently I moved to the NZ Forest Research Institute (Scion) as a Remote Sensing Scientist where I helped develop a leading Geomatics team carrying out cutting edge research into forest remote sensing. In my research I worked with Lidar, photogrammetry, multispectral and hyperspectral sensors and have developed deep expertise and coding skills to process these datasets. I also led the development of a state-of-the art heavy lift UAV capability to carry our sensors. I have also extensively used satellite imagery and conventional aerial imagery and laser scanning for both research and in the real world.   
+
+Since 2018 I have returned to Europe where I offer consulting services on all aspects of technical services to a range of clients across the world. 
+
+I have expertise in forest management, remote sensing, and statistics. I have substantial experience of working in both academic research and commercial forestry where I turn my analytical skills to solving real world problems for a wide range of clients. I am an expert in sampling design and statistical modelling for forestry and have developed a wide range of forest growth and yield simulators for my client
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
