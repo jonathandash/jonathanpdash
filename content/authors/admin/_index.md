@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Forest Remote Sensing
       institution: University of Canterbury (NZ)
-      year: 2018
+      year: 2020
     - course: MSc in Environmental Forestry (Distinction)
       institution: University of Wales, Bangor
       year: 2007
