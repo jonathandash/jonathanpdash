@@ -16,20 +16,20 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Visualisation, package development
+  - description: Visualisation, data management, package development
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: Biometry, simulation, sampling design
     icon: chart-line
     # icon: trees
     icon_pack: fas
     name: Statistics
-  - description: 10%
+  - description: Lidar, Satellite, UAV
     # icon: camera-retro
     icon: satellite
     icon_pack: fas
-    name: Forest
+    name: Remote Sensing
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
 #   icon_pack: "emoji"
