@@ -42,9 +42,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi, I'm Jonathan.
+Hi, I'm Jonathan,
 
-I want to help make the forest sector better...
+I want to help make the forests and forest businesses better...
 
 I've always loved forests, technology, and computers and I've spent a large part of my career following these passions. I am originally from Wales and following a degree in Biology and a Masters degree in forest growth and yield modelling in the UK I moved to New Zealand in 2007. In NZ I spent the next decade working in the vibrant forest sector and as a forestry scientist. I worked at an innovative consulting and forest measurement company where I was exposed to all aspects of forest measurement and modelling, sampling design, forest measurement, and gained a lot of experience using SQL for database management. I also worked on various research projects including remote sensing and harvesting research. I also contributed to the development of New Zealand's national forest carbon inventory.
 
