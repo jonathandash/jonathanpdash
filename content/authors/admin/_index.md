@@ -26,15 +26,15 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Forest Remote Sensing
+      institution: University of Canterbury (NZ)
+      year: 2018
+    - course: MSc in Environmental Forestry (Distinction)
+      institution: University of Wales, Bangor
+      year: 2007
+    - course: BSc (Hons) Biology
+      institution: University of Sheffield
+      year: 2005
 email: ""
 superuser: true
 highlight_name: true
