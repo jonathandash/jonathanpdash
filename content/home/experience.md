@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Director
-    company: Forest Analystics
+    company: Forest Analytics
     company_url: ''
     company_logo: org-gc
     location: California
