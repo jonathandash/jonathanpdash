@@ -30,10 +30,10 @@ education:
       institution: University of Canterbury (NZ)
       year: 2020
     - course: MSc in Environmental Forestry (Distinction)
-      institution: University of Wales, Bangor
+      institution: University of Wales, Bangor (UK)
       year: 2007
     - course: BSc (Hons) Biology
-      institution: University of Sheffield
+      institution: University of Sheffield (UK)
       year: 2005
 email: ""
 superuser: true
