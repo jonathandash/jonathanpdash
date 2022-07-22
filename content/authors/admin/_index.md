@@ -19,10 +19,10 @@ social:
     link: https://scholar.google.com/citations?user=MLZTHIoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jonathandash
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jonathan-dash-759b2725/
 organizations: []
 education:
   courses:
