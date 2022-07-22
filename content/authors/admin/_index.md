@@ -6,7 +6,9 @@ bio: My expertise includes statistical modelling, forestry, and remote sensing.
 interests:
   - Forest Modelling
   - Remote Sensing
+  - Forest Measurement
   - Statistics
+  - Forest Carbon
 social:
   - icon: envelope
     icon_pack: fas
