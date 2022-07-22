@@ -27,7 +27,7 @@ feature:
     name: Statistics
   - description: 10%
     # icon: camera-retro
-    icon: trees
+    icon: satellite
     icon_pack: fas
     name: Forest
 # Uncomment to use emoji icons.
