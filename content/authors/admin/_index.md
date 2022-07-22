@@ -4,9 +4,9 @@ role: Forestry and Remote Sensing Consultant
 avatar_filename: avatar.jpg
 bio: My expertise includes statistical modelling, forestry, and remote sensing.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Forest Modelling
+  - Remote Sensing
+  - Statistics
 social:
   - icon: envelope
     icon_pack: fas
