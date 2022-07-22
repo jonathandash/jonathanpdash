@@ -26,10 +26,10 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 10%
-    icon: camera-retro
-    # icon: trees
+    # icon: camera-retro
+    icon: trees
     icon_pack: fas
-    name: Photography
+    name: Forest
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
 #   icon_pack: "emoji"
