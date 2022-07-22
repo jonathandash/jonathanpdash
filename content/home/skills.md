@@ -28,7 +28,7 @@ feature:
   - description: 10%
     # icon: camera-retro
     icon: trees
-    icon_pack: fab
+    icon_pack: far
     name: Photography
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
