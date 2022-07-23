@@ -54,7 +54,7 @@ I have expertise in forest management, remote sensing, natural resource sampling
 
 I have the technical skills to handle all aspects of processing remote sensing data to provide meaningful insights. I have delivered many successful projects including lidar-based forest inventories, satellite monitoring of forest condition and land cover, and mapping of forest risks such as wildfire and forest pathogens. 
 
-I help my clients use research outputs in their businesses. 
+I help my clients turn research outputs into value. 
 
 Please feel free to take a look through my Publications, Projects, and download my CV for more detail.
 
