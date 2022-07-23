@@ -55,8 +55,22 @@ experience:
     company_url: ''
     company_logo: org-x
     location: New Zealand
-    date_start: '2013-01-01'
+    date_start: '2016-01-01'
     date_end: '2019-01-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: Remote Sensing Scientist
+    company: Scion (NZ Forest Research Institute)
+    company_url: ''
+    company_logo: org-x
+    location: New Zealand
+    date_start: '2013-01-01'
+    date_end: '2016-01-01'
     description: |2-
         Responsibilities include:
         
