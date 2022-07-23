@@ -49,6 +49,20 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+  
+   - title: Senior Scientist
+    company: Scion (NZ Forest Research Institute)
+    company_url: ''
+    company_logo: org-x
+    location: New Zealand
+    date_start: '2019-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 design:
   columns: '2'
