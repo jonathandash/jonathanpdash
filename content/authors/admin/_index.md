@@ -60,4 +60,4 @@ Please feel free to take a look through my Publications, Projects, and download 
 
 If you need help on technical aspects of any project please contact me. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
