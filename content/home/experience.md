@@ -78,6 +78,20 @@ experience:
         * Modelling
         * Deploying
 
+  - title: Consultant
+    company: Interpine Innovations
+    company_url: ''
+    company_logo: org-x
+    location: New Zealand
+    date_start: '2010-01-01'
+    date_end: '2016-01-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
 design:
   columns: '2'
 ---
