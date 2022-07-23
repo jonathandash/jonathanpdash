@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Senior Consultant
+  - title: Senior Associate Consultant
     company: Margules Groome BV
     company_url: ''
     company_logo: org-x
