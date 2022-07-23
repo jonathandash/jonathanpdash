@@ -56,7 +56,7 @@ I have the technical skills to handle all aspects of processing remote sensing d
 
 I help my clients use research outputs in their businesses. 
 
-Please take a look through my Publications, Projects and download my CV for more detail.
+Please feel free to take a look through my Publications, Projects, and download my CV for more detail.
 
 If you need help on technical aspects of any project please contact me. 
 
