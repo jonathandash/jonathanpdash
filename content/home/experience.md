@@ -39,7 +39,7 @@ experience:
   - title: Senior Associate Consultant
     company: Margules Groome BV
     company_url: ''
-    company_logo: org-x
+    company_logo: margules-groome
     location: UK
     date_start: '2019-01-01'
     date_end: ''
@@ -53,7 +53,7 @@ experience:
   - title: Senior Scientist
     company: Scion (NZ Forest Research Institute)
     company_url: ''
-    company_logo: org-x
+    company_logo: scion
     location: New Zealand
     date_start: '2016-01-01'
     date_end: '2019-01-01'
@@ -67,7 +67,7 @@ experience:
   - title: Remote Sensing Scientist
     company: Scion (NZ Forest Research Institute)
     company_url: ''
-    company_logo: org-x
+    company_logo: scion
     location: New Zealand
     date_start: '2013-01-01'
     date_end: '2016-01-01'
