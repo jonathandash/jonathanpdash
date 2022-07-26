@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Director
-    company: Forest Analytics
+    company: Canopy Metrics
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: UK
     date_start: '2019-01-01'
     date_end: ''
     description: |2-
@@ -84,7 +84,21 @@ experience:
     company_logo: org-x
     location: New Zealand
     date_start: '2010-01-01'
-    date_end: '2016-01-01'
+    date_end: '2013-01-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: Team Manager/ Analyst
+    company: Interpine Innovations
+    company_url: ''
+    company_logo: org-x
+    location: New Zealand
+    date_start: '2008-01-01'
+    date_end: '2010-01-01'
     description: |2-
         Responsibilities include:
         
