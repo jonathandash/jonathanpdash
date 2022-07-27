@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Director
-    company: Canopy Metrics
+  - title: Principal
+    company: Dash Forest Consulting
     company_url: ''
     company_logo: org-gc
     location: UK
@@ -32,9 +32,12 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Remote sensing projects
+        * Biometric modelling
+        * Academic research
+        * R package development
+        * Forest simulation
+        * Forest carbon modelling
 
   - title: Senior Associate Consultant
     company: Margules Groome BV
@@ -46,9 +49,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Biometric modelling
+        * Forest inventory sampling design
+        * Satellite remote sensing projects
+        * Valuation due diligence
+        * Lidar-based forest inventory
   
   - title: Senior Scientist
     company: Scion (NZ Forest Research Institute)
@@ -60,9 +65,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Remote sensing research
+        * Experimental design
+        * Project management
+        * Forestry research
 
   - title: Remote Sensing Scientist
     company: Scion (NZ Forest Research Institute)
@@ -74,37 +80,39 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Remote sensing research
+        * Experimental design
+        * UAV capability development
 
   - title: Consultant
     company: Interpine Innovations
     company_url: ''
-    company_logo: org-x
+    company_logo: interpine
     location: New Zealand
     date_start: '2010-01-01'
     date_end: '2013-01-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Forest inventory design
+        * Forest yield analysis
+        * Lidar-based forest inventory
+        * Forest carbon inventory
+        * Harvesting research
 
   - title: Team Manager/ Analyst
     company: Interpine Innovations
     company_url: ''
-    company_logo: org-x
+    company_logo: interpine
     location: New Zealand
     date_start: '2008-01-01'
     date_end: '2010-01-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Database design and maintenance
+        * Team management
+        * Forest yield analysis
 
 design:
   columns: '2'
